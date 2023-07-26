@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<< HEAD
 # Home page
 ![All page](assets/Real-Estate-home.png)
 # Property Details page
